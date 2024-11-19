@@ -6,7 +6,8 @@ langchain_community #tools
 chromadb            #install charoma
 langchain-chroma    #to integrate charoma
 pypdf               #Read PDF Files
-streamlit           #make fronEnd
+streamlit           #make frontEnd
+
 -e .
 
 
