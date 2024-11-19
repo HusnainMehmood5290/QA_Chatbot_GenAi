@@ -1,0 +1,15 @@
+python_dotenv       #load environment variables
+langchain-ollama    #use ollama
+# langchain
+langchain_core      #for prompt perpose
+langchain_community #tools
+chromadb            #install charoma
+langchain-chroma    #to integrate charoma
+pypdf               #Read PDF Files
+streamlit           #make fronEnd
+-e .
+
+
+langserve
+# faiss-cpu           #vectorStore
+# bs4                 #webScrapping
