@@ -26,10 +26,10 @@ conda activate venv
 pip install -r requirements.txt
 ```
 
-### Download and install Ollama from official site and run this cmd at cmd prompt`ollam run llama3.2`:
+### Download and install Ollama from official site and run this cmd to download model locally:
 
 ```ini
-it download llama3.2 model locally to use this code project
+ollama run llama3.2
 ```
 
 ```bash
