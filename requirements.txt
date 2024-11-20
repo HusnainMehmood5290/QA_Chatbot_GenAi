@@ -7,7 +7,7 @@ chromadb            #install charoma
 langchain-chroma    #to integrate charoma
 pypdf               #Read PDF Files
 streamlit           #make frontEnd
-
+PyPDF2
 -e .
 
 
