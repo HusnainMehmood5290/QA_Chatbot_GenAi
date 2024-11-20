@@ -1,4 +1,4 @@
-# Information Retrieval from Multiple PDF 💁💬 with PaLM2
+# Information Retrieval from Multiple PDF 💁💬 with Ollama llama3.2
 
 # How to run?
 
